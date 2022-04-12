@@ -1,8 +1,8 @@
 # Online-DA Object Detection
 
-Official Pytorch Code base for [Towards Online Domain Adaptive Object Detection](https://arxiv.org/abs/2203.15793)
+Official Pytorch Code base for [Towards Online Domain Adaptive Object Detection](https://arxiv.org/pdf/2204.05289)
 
-[Paper](https://arxiv.org/abs/2203.15793) | [Project page] - Coming soon...!!!
+[Paper](https://arxiv.org/pdf/2204.05289) | [Project page] - Coming soon...!!!
 
 ## Introduction
 
